@@ -1,0 +1,28 @@
+@media screen and (max-width: 1085px){
+    .navigation-wrapper{
+        display: flex;
+    }
+    .middle-section-wrapper > .middle-column > .image1 {
+        width: auto;
+        height: auto;
+    }
+    .about{
+        display: grid;
+        grid-template-columns: auto;
+    }
+    .about > .tiles-wrapper{
+        display: grid;
+        grid-template-columns: auto;  
+    }
+
+    .last-section-wrapper > .grid-container{
+        display: grid;
+	    grid-template-columns: auto;
+    }
+
+    .footer-wrapper{
+        display: grid;
+	    grid-template-columns: auto;
+    }
+
+}
